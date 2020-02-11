@@ -2,6 +2,7 @@
 {
   box-sizing: border-box;
   color:#cccccc;
+  overflow: hidden;
 }
 
 body
